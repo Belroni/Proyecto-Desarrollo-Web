@@ -2,7 +2,7 @@
 Proyecto final Desarrollo Web Avanzado. Jennifer Martínez Tavera. Isabel Romero Navarrete
 git init
 
-git add .
+git add fullstack-frontend.
 
 git commit -m "first commit"
 
